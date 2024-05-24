@@ -4,7 +4,8 @@ import axios from 'axios';
 import styled from 'styled-components';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
-import Bloco1 from '../components/Bloco1'
+import BlocoDep from '../components/BlocoDep';
+
 
 const Container = styled.div`
   max-width: 1000px;
@@ -91,7 +92,7 @@ function BioContent() {
   return (
     <div>
       <Header />
-      <Bloco1 />
+      <BlocoDep />
       <Container>
         <Content>
           <Image src={`http://localhost:5000/uploads/${character.foto}`} alt={character.nome} />

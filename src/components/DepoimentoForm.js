@@ -24,7 +24,7 @@ const Form = styled.form`
 
 const Input = styled.input`
   background-color: white;
-  color: #fff;
+  color: black;
   width: 100%;
   padding: 20px 05px 05px ;
   outline: 0;
@@ -35,7 +35,7 @@ const Input = styled.input`
 
 const Textarea = styled.textarea`
   background-color: white;
-  color: #fff;
+  color:black;
   width: 100%;
   padding: 20px 05px 05px ;
   outline: 0;
@@ -46,7 +46,7 @@ const Textarea = styled.textarea`
 
 const FileInput = styled.input`
   background-color: white;
-  color: #fff;
+  color: black;
   padding: 10px;
   border: 1px solid rgba(105, 105, 105, 0.397);
   border-radius: 10px;
