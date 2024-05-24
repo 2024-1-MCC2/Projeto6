@@ -22,6 +22,8 @@ O projeto foi desenvolvido para divulgar trabalho de ons e prestar um apoio em m
 ### Back-end
 
 - **Node.js**: Ambiente de execução do JavaScript no servidor.
+- **MySQL**: Criação e inplementação do banco de dados.
+- **Azure**: Criação do servidor para o banco de dados.
 
 ## 🛠 Instalação
 
