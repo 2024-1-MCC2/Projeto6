@@ -4,9 +4,9 @@
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# EJA Embu das Artes: Educação para Todos
+# Zenlife  
 
-## Integrantes: <a href="https://www.linkedin.com/in/mariaeflopes/">Maria Eduarda de Freitas Lopes</a>, <a href="https://www.linkedin.com/in/flavio-santos-289477209/">Flavio José</a>, <a href="https://www.linkedin.com/in/jenifer-barreto-55022523b/">Jenifer Barreto</a>, <a href="https://www.linkedin.com/in/paulo-jose-b496ba17a/">Paulo José dos Santos Junior</a>
+## Integrantes: <a >Aleff Souza</a>, <a ">Claudio Endo</a>, <a href="https://www.linkedin.com/">Luis Felipe</a>, <a>Matheus zimer</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Rosetti</a>, <a href="https://www.linkedin.com/in/francisco-escobar/">Francisco Escobar</a>, <a href="https://www.linkedin.com/in/dolemes/">David de Oliveira Lemes</a>, <a href="https://www.linkedin.com/in/katia-bossi/">Katia Milani Lara Bossi</a>, <a href="https://www.linkedin.com/in/jésus-gomes-83b769108/">Jésus Gomes</a>,  <a href="#">Joao Pedro da Costa Pinto</a>
 # Getting Started with Create React App
