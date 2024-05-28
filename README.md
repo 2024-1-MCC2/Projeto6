@@ -13,7 +13,7 @@
 
 ## Descrição
 
-O projeto foi desenvolvido para divulgar trabalho de ons e prestar um apoio em modo de comunidade aos problemas de ansiedade depressão, sendo uma empresa sem fins lucrativos que visa o bem-estar de todos de um modo de apoio geral, tentando mostrar informações que muitas vezes não são dadas a total importância que deveria.
+O projeto foi desenvolvido para divulgar trabalho de ongs e prestar um apoio em modo de comunidade aos problemas de ansiedade depressão, sendo uma empresa sem fins lucrativos que visa o bem-estar de todos de um modo de apoio geral, tentando mostrar informações que muitas vezes não são dadas a total importância que deveria.
 
 
 ### Objetivos:
